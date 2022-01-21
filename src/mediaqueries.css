@@ -1,0 +1,11 @@
+@media screen and (max-width:600px){
+    .react-learning-app {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-areas: 
+        "sidebar"
+        "content";
+        gap: 10px;
+      }
+      
+}
